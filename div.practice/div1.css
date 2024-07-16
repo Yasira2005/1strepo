@@ -1,0 +1,140 @@
+.n1{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: ghostwhite;
+}
+.b1{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: gold;
+    
+}
+.b2{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+   background-color: dodgerblue;
+}
+.n2{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+   align-items: center;
+   background-color: chartreuse;
+}
+.n3{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    background-color: darksalmon;
+}
+.b3{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: darkkhaki;
+}
+.b4{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+}
+.b5{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+}
+.row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.n4{
+    border: 2px solid black;
+    height: 150px;
+    width: 300px;
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    background-color: cyan;
+}
+.row2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.b6{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: crimson;
+}
+.n5{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    display: flex;
+   justify-content: space-around;
+    align-items: center;
+    background-color: pink;
+}
+.b7{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: darkolivegreen;
+}
+.b8{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: indianred;
+}
+.row3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.n6{
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+   justify-content: space-around;
+    align-items: center;
+    background-color: darkkhaki;
+}
+.b9{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: darkgreen;
+}
+.b10{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: blueviolet;
+}
+.main{
+    border: 2px solid brown;
+    padding: 20px;
+    background-color: lightgreen;
+}
